@@ -1,0 +1,33 @@
+{
+  "0": "m",
+  "1": "a",
+  "2": "n",
+  "3": "a",
+  "4": "g",
+  "5": "e",
+  "6": "d",
+  "expo": {
+    "name": "HelloWorld",
+    "slug": "expo-template-blank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
